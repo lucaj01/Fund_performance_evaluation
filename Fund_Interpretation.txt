@@ -1,0 +1,18 @@
+INVESTMENT FUND EVALUATION - WOFNX
+Period: 1 November 2024 - 30 October 2026
+
+Year 1: WOFNX delivered a cumulative return of 8.92%, versus 17.43% for Russell 2000 Growth and 20.95% for S&P 500. Fund minus Russell performance was -8.51 percentage points and fund minus S&P performance was -12.03 percentage points. Annualized volatilities were 17.97%, 23.11% and 17.61%, respectively. Worst 4-week losses were 11.95%, 12.04% and 11.96%. The fund's annualized Sharpe was 0.330 and its Information Ratio against Russell 2000 Growth was -0.840.
+
+Year 2: WOFNX delivered a cumulative return of 8.45%, versus 7.13% for Russell 2000 Growth and 12.11% for S&P 500. Fund minus Russell performance was +1.32 percentage points and fund minus S&P performance was -3.65 percentage points. Annualized volatilities were 13.91%, 19.08% and 11.91%, respectively. Worst 4-week losses were 8.99%, 8.31% and 7.31%. The fund's annualized Sharpe was 0.387 and its Information Ratio against Russell 2000 Growth was 0.032.
+
+Full Period: WOFNX delivered a cumulative return of 18.13%, versus 25.81% for Russell 2000 Growth and 35.60% for S&P 500. Fund minus Russell performance was -7.68 percentage points and fund minus S&P performance was -17.46 percentage points. Annualized volatilities were 15.99%, 21.10% and 14.97%, respectively. Worst 4-week losses were 11.95%, 12.04% and 11.96%. The fund's annualized Sharpe was 0.340 and its Information Ratio against Russell 2000 Growth was -0.360.
+
+BENCHMARK COMPOSITION: Russell 2000 Growth focuses on the growth segment of the US small-cap Russell 2000 universe, whereas the S&P 500 primarily represents US large-cap equities. Thus Russell 2000 Growth matches a small-cap growth investment mandate more closely by size and style. However, the actual WOFNX portfolio holdings and capitalization profile must be examined before claiming it is the best economic benchmark for this fund.
+
+DATA COMPARABILITY: WOFNX adjusted NAVs can reflect distributions, while Yahoo Finance's ^RUO and ^GSPC index levels typically represent price returns without dividend reinvestment. Therefore the comparisons may not be like-for-like total returns. Disclose this limitation or replace both index series with total-return series where available.
+
+RISK-FREE METHODOLOGY: The rates are fixed using observations at the start of each investment horizon, as directed by the assignment. Year 1 and 2 use FRED DTB1YR (12-month bill, discount yield converted approximately to an effective rate); the full period uses DGS2 (2-year Treasury yield, a proxy rather than the requested USD 24-month Euromarket rate). Annualized Sharpe uses the horizon-specific weekly equivalent rate.
+
+OVERALL QUALITATIVE ASSESSMENT: Over the full two-year period, WOFNX returned 18.13%, compared with 25.81% for Russell 2000 Growth and 35.60% for S&P 500. It underperformed the Russell by 7.68 percentage points, but had lower annualized volatility (15.99% versus 21.10%). Its worst rolling four-week loss (11.95%) was similar to the Russell's (12.04%). The Sharpe ratio (0.340) was positive but its Information Ratio (-0.360) was negative. This suggests lower risk than the specified small-cap growth benchmark but weak benchmark-relative performance over the sample. The conclusion remains conditional on the price-return versus total-return comparability issue and on the suitability of the assigned benchmark. Review portfolio holdings, style, fees and investment process before a final investment judgment.
+
+METHODS: see the 'Methodology' worksheet in Fund_Performance_Evaluation.xlsx.
